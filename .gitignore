@@ -1,0 +1,32 @@
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# File konfigurasi dan rahasia lokal
+.env
+.env.*
+
+# File log dan sementara
+*.log
+*.tmp
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Pengaturan editor lokal
+.vscode/
+
+# Artefak model yang dihasilkan saat training
+*.h5
+*.keras
+*.joblib

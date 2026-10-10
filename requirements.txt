@@ -1,0 +1,15 @@
+# Pengolahan data
+numpy
+pandas
+
+# Visualisasi data
+matplotlib
+
+# Dekomposisi sinyal EMD
+EMD-signal
+
+# Prapemrosesan dan evaluasi model
+scikit-learn
+
+# Pemodelan deep learning menggunakan GRU
+tensorflow
